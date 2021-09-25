@@ -5,7 +5,7 @@
 <h2> About Me
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" />
 
-- 🌱 I’m currently on track to be **Data Scientist**
+- 🌱 I’m currently on the track to be **Data Scientist**
 
 - 📫 How to reach me **rohitroycanny@gmail.com**
 
