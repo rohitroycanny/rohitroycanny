@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Scientist Track**
 
-- 📫 How to reach me **rohitroycanny@outlook.com**
+- 📫 How to reach me **rohitroycanny@gmail.com**
 
 - ⚡ Hobbies **I play xbox,football,badminton,cricket #everything**
   
