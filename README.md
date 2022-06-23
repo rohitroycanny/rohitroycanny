@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://twitter.com/rohitroystark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitroystark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohitroystark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohitroystark" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohitroystark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohitroystark" height="30" width="40" /></a>
 <a href="https://medium.com/@rohitroycanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohitroycanny" height="30" width="40" /></a>
 </p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rohitroystark" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohitroystark?trk=profile-badge">Rohit Kumar</a></div       
