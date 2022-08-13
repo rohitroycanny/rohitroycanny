@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏽, I'm Rohit Kumar</h1>
-<h3 align="center">Senior Executive-Business Analyst</h3>
+<h3 align="center">Product Manager</h3>
 
 
 <h2> About Me
