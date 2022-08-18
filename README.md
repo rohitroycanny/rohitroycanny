@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋🏽, I'm Rohit Kumar</h1>
-<h3 align="center">Product Manager</h3>
+<h3 align="center">Product Manager @ American Express</h3>
 
 
 <h2> About Me
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" />
 
-- 🌱 I’m currently on the track to be **Data Scientist**
+- 🌱 I’m currently on the track to be **Sr.Product Manager**
 
 - 📫 How to reach me **rohitroycanny@gmail.com**
 
